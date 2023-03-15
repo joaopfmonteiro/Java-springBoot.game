@@ -7,12 +7,12 @@ public class SuperContraGame implements GamingConsole {
         System.out.println("up");
     }
     public void down(){
-        System.out.println("Sit down");
+        System.out.println("down");
     }
     public void left(){
-        System.out.println("Go back");
+        System.out.println("left");
     }
     public void right(){
-        System.out.println("Shoot a bullet");
+        System.out.println("right");
     }
 }
